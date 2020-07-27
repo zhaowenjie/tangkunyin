@@ -3,6 +3,6 @@
 ### Hi, there 👋
 
 -  **I am :** Focusing on Frontend Development :zap:
--  **Languages :** JavaScipt, Swift, Objective-C, Java
+-  **Languages :** JavaScipt, Swift, Java
 -  **Hobbies :** Swimming :swimmer: & Reading :books:
 -  **Telegram :** [Thomas Tang](https://t.me/kunyintang)
